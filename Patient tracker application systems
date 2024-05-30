@@ -12,3 +12,17 @@ We add the text "Username"
 We add a field in which the customer can enter the user name
 We add the text "Password"
 We add a field in which the client can write the password
+
+Book a patient appointment:
+In “Reservation” page:
+We add the text "Choose the appointment type"
+Establishing options for the departments in the hospital
+We add the text "Select date and time"
+Setting a calendar so that the customer can choose the day that suits him
+Setting working hours in the hospital so that the client can choose any time he wants
+Add a "Complete Reservation" button, and it will take the patient to a page that shows“Reservation accepted”
+In “Reservation accepted” page:
+We add the text "cancellation of reservation"
+Add a "cancel" button, and it will take the patient to a page that shows“cancellation accepted”
+We add the text "change the reservation date and time"
+Add a "change" button, and it will take the patient to the “Reservation” page
