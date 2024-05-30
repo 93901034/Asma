@@ -26,3 +26,8 @@ We add the text "cancellation of reservation"
 Add a "cancel" button, and it will take the patient to a page that shows“cancellation accepted”
 We add the text "change the reservation date and time"
 Add a "change" button, and it will take the patient to the “Reservation” page
+
+Notifications and alerts:
+Adding a feature that allows the customer to choose whether he wants to allow the application to send appointment notifications and reminders or  neither he does not want to allow this
+Add a "allow" button
+Add a "reject" button
